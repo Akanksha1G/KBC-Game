@@ -4,8 +4,10 @@ This project was developed as course project under Nivedit Jain, instructor, Pyt
 ## Introduction
 The Classic Quiz Game, Kaun Banega Crorepati (The Indian version of Who wants to be a Millionaire?).
 This is a Classic Quiz Game. 12 Questions will be presented to you one by one. Answer your way to win Rs. 1 Crore, and become a 'Crorepati' (Millionaire).
+
 If you get stuck somewhere, 2 Lifelines are available for your help, which can be used only once during the course of the game. They are '50-50' and 'Skip the Question'.
-At any point, the player can choose to quit the game, and walk out with the money he has won. The player can also read the instructions to better understand the game.
+At any point, the player can choose to quit the game, and walk out with the money he has won.
+The player can also read the instructions to better understand the game.
 ## Getting Started
 Just clone this repository onto your Machine to get started.
 You can directly download it
