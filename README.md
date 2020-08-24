@@ -1,6 +1,6 @@
 
 # KBC GAME (KAUN BANEGA CAROREPATI)
-This project was developed as course project under Nivedit Jain, instructor, Python Engineering Times Course. This project encouraged me to make real life application. It also increased my knowledge of programming concepts and language.
+This project was developed as course project under **Nivedit Jain**, _instructor_, Python Engineering Times Course. This project encouraged me to make real life application. It also increased my knowledge of programming concepts and language.
 ## Introduction
 The Classic Quiz Game, Kaun Banega Crorepati (The Indian version of Who wants to be a Millionaire?).
 This is a Classic Quiz Game. 12 Questions will be presented to you one by one. Answer your way to win Rs. 1 Crore, and become a 'Crorepati' (Millionaire).
@@ -13,8 +13,11 @@ Just clone this repository onto your Machine to get started.
 You can directly download it
 or
 Use the following the instructions in cmd(windows)/command line (linus/mac)
+
 Step 1: Create a folder(any name)
+
 Step 2: Use the command
+
 ``` bash
 git init 
 ``` 
@@ -27,7 +30,8 @@ git clone https://github.com/Akanksha1G/KBC-Game
 ## Prerequisites
 Prerequisite for the project are
 ### Git
-For downloading this project you need to install Git bash on your system
+For downloading this project you need to install Git bash on your system.
+
 For mac/linux you can use the following commands
 ```bash 
 sudo apt install git
