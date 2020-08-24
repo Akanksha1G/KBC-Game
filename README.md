@@ -50,6 +50,6 @@ python kbc.py
 ```
 and KBC game will appear on your  screen.
 ## Contributors of the Project
-AKANKSHA GANDHI
+**AKANKSHA GANDHI**
 ## License
-Apache License 2.0
+**Apache License 2.0**
