@@ -24,20 +24,19 @@ git clone https://github.com/Akanksha1G/KBC-Game
 ```
 ## Prerequisites
 Prerequisite for the project are
-Git
+### Git
 For downloading this project you need to install Git bash on your system
 For mac/linux you can use the following commands
 ```bash 
 sudo apt install git
 ``` 
 for windows you can directly download from git website, setup git.
-Python
+### Python
 You need Python installend on your computer.
-
-## Instructions to install it on Windows
-Go to official python website, and download according to your system details download it. Make sure to check the first check box regarding path variables.
+#### Instructions to install it on Windows
+Go to official [python website](https://www.python.org/), and download according to your system details download it. Make sure to check the first check box regarding path variables.
 Instructions to install python on linux/MacOS
- For installations click here, make sure to intsall the latest version.
+ For installations [click here](http://ubuntuhandbook.org/index.php/2017/07/install-python-3-6-1-in-ubuntu-16-04-lts/), make sure to intsall the latest version.
 ## Running of Code
 Running of code is as simple as (suppose you want to compile kbc file  )
 ```bash 
@@ -47,4 +46,4 @@ and KBC game will appear on your  screen.
 ## Contributors of the Project
 AKANKSHA GANDHI
 ## License
-Apache 
+Apache License 2.0
